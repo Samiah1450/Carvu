@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romon\\source\\repos\\CarvuBackend\\CarvuBackend\\CarvuBackend.csproj": {}
+    "C:\\Users\\romon\\Desktop\\Carvu\\CarvuBackend\\CarvuBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romon\\source\\repos\\CarvuBackend\\CarvuBackend\\CarvuBackend.csproj": {
+    "C:\\Users\\romon\\Desktop\\Carvu\\CarvuBackend\\CarvuBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romon\\source\\repos\\CarvuBackend\\CarvuBackend\\CarvuBackend.csproj",
+        "projectUniqueName": "C:\\Users\\romon\\Desktop\\Carvu\\CarvuBackend\\CarvuBackend.csproj",
         "projectName": "CarvuBackend",
-        "projectPath": "C:\\Users\\romon\\source\\repos\\CarvuBackend\\CarvuBackend\\CarvuBackend.csproj",
+        "projectPath": "C:\\Users\\romon\\Desktop\\Carvu\\CarvuBackend\\CarvuBackend.csproj",
         "packagesPath": "C:\\Users\\romon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romon\\source\\repos\\CarvuBackend\\CarvuBackend\\obj\\",
+        "outputPath": "C:\\Users\\romon\\Desktop\\Carvu\\CarvuBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
